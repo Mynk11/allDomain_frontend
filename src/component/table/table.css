@@ -1,0 +1,29 @@
+.mt10 {
+  margin-top: 10%;
+  width: 100%;
+}
+.mt15 {
+  margin-top: 5%;
+  height: 500px;
+  padding: 0px 10%;
+}
+.pl15Right {
+  padding-right: 10%;
+  margin-bottom: 40px;
+  text-align: left;
+  display: inline;
+  float: right;
+}
+.pl15Left {
+  padding-left: 10%;
+  text-align: left;
+  display: inline;
+  float: left;
+}
+.columnWidth {
+  width: 100%;
+  text-align: center;
+  overflow-y: scroll;
+  height: 80%;
+  display: block;
+}
