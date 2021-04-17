@@ -22,7 +22,6 @@ export default function CommentsTable(props) {
     getCommentsData();
   };
 
-  console.log(commentsData);
   return (
     <div className="mt10">
       <div className={"pl15Left"}>
